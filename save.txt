@@ -1,0 +1,11 @@
+r n b q k b n r 
+p - p - - - p p 
+- - - - - p - - 
+- p - N - - B - 
+- - P P - - - - 
+- Q - - p - - - 
+P P - - P P P P 
+- - K R - B N R 
+1
+king
+rook
